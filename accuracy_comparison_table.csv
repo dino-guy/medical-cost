@@ -1,0 +1,6 @@
+S.No.,Algorithm,Accuracy (%),Precision (%),Recall (%),F1-score (%),Training Time (sec)
+1,Logistic Regression,81.0,81.89,79.6,80.73,0.07564
+2,Decision Tree,74.0,74.0,74.0,74.0,0.02901
+3,KNN,78.2,78.89,77.0,77.94,0.01751
+4,SVM,81.2,82.64,79.0,80.78,0.37761
+5,Naive Bayes,69.5,100.0,39.0,56.12,0.00274
