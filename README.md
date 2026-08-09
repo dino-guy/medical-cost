@@ -149,10 +149,5 @@ required. The whole thing trains in under a second.
 
 ---
 
-## 👤 Author
-
-**Dineshkumar P**
-Reg No: 24ADR024
-B.Tech – Artificial Intelligence & Data Science
 
 *This project was built as part of a Machine Learning coursework assignment.*
